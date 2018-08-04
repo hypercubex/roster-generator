@@ -1,0 +1,11 @@
+{
+  "name": "roster-generator",
+  "version": "1.0.0",
+  "description": "node based roster generator on google calendar",
+  "main": "index.js",
+  "author": "Matthew Lam",
+  "license": "MIT",
+  "dependencies": {
+    "googleapis": "^32.0.0"
+  }
+}
